@@ -1,5 +1,5 @@
 # belly-button-challenge
-<<<<<<< HEAD
+
 Belly Button Biodiversity Dashboard
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset. This dataset catalogs the microbial species that inhabit human navels, offering a fascinating glimpse into the diverse community of microbes that live on and inside us.
 Dataset Context
@@ -7,14 +7,14 @@ The dataset in question contains valuable information about various microbes, al
 Interactive Dashboard Features
 The dashboard you will create serves as an interactive tool for visualizing and exploring the Belly Button Biodiversity dataset. It provides two key components:
 1.	Metadata Panel:
-o	Purpose: This panel displays demographic information about the selected test subject.
-o	Details Included: Data such as age, gender, ethnicity, and other relevant attributes will be presented.
+Purpose: This panel displays demographic information about the selected test subject.
+Details Included: Data such as age, gender, ethnicity, and other relevant attributes will be presented.
 2.	Charts:
-o	Bar Chart:
+	Bar Chart:
 	Purpose: This chart shows the top 10 most abundant bacteria cultures found in the selected sample.
 	Title: "Top 10 Bacteria Cultures Found."
 	Description: It displays the number of bacteria (sample values) against their operational taxonomic units (OTU IDs), providing insight into which bacteria are most prevalent in the sample.
-o	Bubble Chart:
+	Bubble Chart:
 	Purpose: This chart visualizes the relationship between the number of bacteria and their OTU IDs across the sample.
 	Title: "Bacteria Cultures Per Sample."
 	Description: It represents each OTU as a bubble, where the size of the bubble corresponds to the number of bacteria present and the color reflects different OTUs. This allows for an immediate visual understanding of the distribution and abundance of various bacterial species.
