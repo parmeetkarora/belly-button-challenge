@@ -1,4 +1,5 @@
 # belly-button-challenge
+<<<<<<< HEAD
 Belly Button Biodiversity Dashboard
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset. This dataset catalogs the microbial species that inhabit human navels, offering a fascinating glimpse into the diverse community of microbes that live on and inside us.
 Dataset Context
@@ -46,3 +47,5 @@ o	It updates the metadata panel and rebuilds the charts for the newly selected s
 5.	Initialize the Dashboard:
 o	The init function is called to set up the dashboard when the page loads. It populates the dropdown menu, builds the initial charts, and displays the metadata for the first sample.
 
+=======
+>>>>>>> 95e93516a71131e833ad1be82ba0c884b087cb8a
